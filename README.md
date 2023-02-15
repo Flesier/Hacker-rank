@@ -1,2 +1,2 @@
-# Hacker-rank
+ Hacker-rank
 30 days of coding challenge
